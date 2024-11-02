@@ -1,0 +1,38 @@
+@media only screen and (max-width: 768px) {
+    .logo {
+        width: 60%;
+    }
+
+    .menu {
+        width: 40%;
+    }
+
+    .prod {
+        flex-direction: column;
+    }
+
+    .dep {
+        flex-direction: column;
+    }
+
+    .dep-item {
+        width: 70%;
+        margin-bottom: 20px;
+    }
+
+    .perg {
+        flex-direction: column;
+    }
+
+    .perg-item {
+        margin-bottom: 20px;
+    }
+
+    .cont {
+        width: 60%;
+    }
+
+    .cont-img {
+        width: 40%;
+    }
+}

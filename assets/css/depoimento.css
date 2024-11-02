@@ -1,0 +1,49 @@
+#depoimento {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+
+#depoimento h1 {
+    margin-bottom: 20px;
+}
+
+.dep {
+    width: 92%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 2%;
+}
+
+.dep-item {
+    width: 29vw;
+    border: 1px solid rgb(230, 230, 230);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.dep-item h1{
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+.dep-item p {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 70%;
+    font-style: italic;
+}
+
+.dep-item img {
+    width: 30%;
+    border-radius: 100%;
+}
