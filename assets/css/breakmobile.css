@@ -43,14 +43,6 @@
         font-size: .9rem;
     }
 
-    .prod {
-        flex-direction: column;
-    }
-
-    .prod-item {
-        margin-bottom: 20px;
-    }
-
     #home {
         height: 100vh;
     }
