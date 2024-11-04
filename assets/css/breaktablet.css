@@ -11,6 +11,10 @@
         flex-direction: column;
     }
 
+    .prod-item {
+        margin-bottom: 20px;
+    }
+
     .dep {
         flex-direction: column;
     }
